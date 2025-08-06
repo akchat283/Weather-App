@@ -1,0 +1,23 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #e0f7fa;
+  text-align: center;
+  padding-top: 50px;
+}
+.container {
+  width: 300px;
+  margin: auto;
+  padding: 20px;
+  background: white;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px #ccc;
+}
+input, button {
+  padding: 10px;
+  width: 80%;
+  margin: 10px 0;
+}
+#weatherResult {
+  margin-top: 20px;
+  font-size: 18px;
+}
